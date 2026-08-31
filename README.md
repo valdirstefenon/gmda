@@ -1,7 +1,7 @@
 # gmda
 # GMDA - Genetic and Morphometric Data Analysis Platform
 
-**Version 4.2**
+**Version 4.4**
 
 GMDA is a comprehensive desktop application for analyzing genetic and morphometric data, designed for researchers in population genetics, evolutionary biology, and related fields. The software provides a user-friendly interface for performing complex statistical analyses, including similarity calculations, population structure analysis, and correlation studies.
 
